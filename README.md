@@ -1,1 +1,2 @@
-## This is a markdown file
+## The Data Science Specialization
+This is repository for submitting my assignments related to Coursera course "The Data Science Specialization" at https://www.coursera.org/specialization/jhudatascience/1/overview
